@@ -12,7 +12,7 @@
 Follow these steps to install dependencies and run the project:
 
 1️⃣ Clone the Repository
-git clone https://github.com/KuldeepBhargav/mental-health-project.git
+git clone https://github.com/KuldeepBhargav/Self-Analysis-Mental-Health-Model.git
 cd mental-health-model
 
 2️⃣ Create a Virtual Environment
